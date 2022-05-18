@@ -1,4 +1,4 @@
-# bf591-FinalProject-mranawee
+
 Final Project: Rshiny App
 R Shiny application that features multiple bioinformatics processes:
   Sample information,
