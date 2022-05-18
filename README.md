@@ -1,5 +1,5 @@
-
-Final Project: Rshiny App
+Final Project:
+ Rshiny App
 R Shiny application that features multiple bioinformatics processes:
   Sample information,
   Read count analysis,
